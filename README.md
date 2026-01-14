@@ -13,3 +13,12 @@ girildiğinde titreşim motoru çalıştırılmıştır.
 - Jumper kablo 
 ## Çalışma Mantığı
 Mesafe 20 cm altına düştüğünde motor aktif olur.
+
+#Geliştirilen sistem her ne kadar tekerlekli sandalye kullanıcılarının
+engel farkındalığını artırmak amacıyla tasarlanmış olsa da, kullanım alanı
+bu grupla sınırlı değildir. Aynı çalışma prensibi, araçların önüne ani
+şekilde çıkan hayvanların veya engellerin algılanması durumunda sürücüyü
+titreşim yoluyla uyaran bir destek sistemi olarak da kullanılabilir.
+Özellikle kırsal bölgelerde veya gece sürüşlerinde, sürücünün dikkatini
+dağıtmadan uyarı verilmesi açısından titreşim tabanlı sistemler etkili bir
+çözüm sunmaktadır.
